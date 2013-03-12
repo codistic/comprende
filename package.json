@@ -1,9 +1,13 @@
 {
 	"name": "comprende",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "List comprehensions for JavaScript.",
 	"author": "Jason Stehle",
 	"license": "MIT",
+	"main": "./dist/comprende",
+	"dependencies" : {
+		"underscore":  "*"
+	}
 	"engines": {
 		"node": "0.8.x"
 	},

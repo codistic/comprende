@@ -1,4 +1,4 @@
-//     Comprende.js 0.1.0
+//     Comprende.js 0.1.1
 //     (c) 2013 Jason Stehle, http://www.codistic.com/projects/comprende/
 //     Comprende.js may be freely distributed under the MIT license.
 
