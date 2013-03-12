@@ -7,7 +7,7 @@
 	"main": "./dist/comprende",
 	"dependencies" : {
 		"underscore":  "*"
-	}
+	},
 	"engines": {
 		"node": "0.8.x"
 	},
